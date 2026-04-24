@@ -164,4 +164,4 @@ Feel free to open issues or submit pull requests!
 
 ---
 
-**⭐ If you found this helpful, please star the repository!**
+**⭐ If you found this helpful, please star the repository!*
