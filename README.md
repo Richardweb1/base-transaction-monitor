@@ -14,12 +14,12 @@ A simple, human-friendly Python script to monitor real-time transactions on the 
 - **Human-readable output**: Clean, emoji-enhanced terminal interface
 - **No API key required**: Uses public Base RPC endpoint
 
-## 📋 Requirements
+##  Requirements
 
 - Python 3.7 or higher
 - `requests` library
 
-## 🚀 Installation
+##  Installation
 
 1. Clone this repository:
 ```bash
