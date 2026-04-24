@@ -9,7 +9,7 @@ A simple, human-friendly Python script to monitor real-time transactions on the 
 ## 🎯 Features
 
 - **Real-time monitoring**: Watch Base chain transactions as they happen
-- **Address tracking**: Monitor specific wallet addresses
+- **Address tracking*: Monitor specific wallet addresses
 - **Transaction lookup**: Get details about any transaction by hash
 - **Human-readable output**: Clean, emoji-enhanced terminal interface
 - **No API key required**: Uses public Base RPC endpoint
