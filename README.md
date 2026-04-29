@@ -1,6 +1,6 @@
 # 🌊 Base Chain Transaction Monitor
 
-A simple, human-friendly Python script to monitor real-time transactions on the Base blockchain*
+A simple, human-friendly Python script to monitor real-time transactions on the Base blockchain
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![Base](https://img.shields.io/badge/Base-Mainnet-blue.svg)
