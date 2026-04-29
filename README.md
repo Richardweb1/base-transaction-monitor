@@ -47,7 +47,7 @@ Monitors the Base blockchain for 60 seconds and displays all transactions with v
 ```
 🚀 Base Chain Transaction Monitor Started!
 ⏰ Monitoring for 60 seconds...
-=============================================================================
+============================================================================
 
 📦 Block #12345678 | 2026-04-23 14:30:45
    Transactions: 15
